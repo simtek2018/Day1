@@ -1,0 +1,28 @@
+/* ------------- Tag Selectors -------------*/
+body {
+    background-color: #5aa469;
+}
+
+h1 {
+   color:  #efb08c;
+   font-size: 70px;
+   text-align: center;
+}
+
+h2 {
+    color:  #efb08c;
+    font-size: 50px;    
+    text-align: center;
+ }
+
+ h3 {
+    color:  #efb08c;
+    font-size: 30px;
+    text-align: center;
+ }
+
+ hr {
+    background-color: #d35d6e;   
+    border: none;
+    height: 3px;
+ }
